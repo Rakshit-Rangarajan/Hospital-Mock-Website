@@ -1,0 +1,26 @@
+*{
+    font-family: Comic Sans MS;
+}
+/* 
+  
+  .img__inner {
+    transition: transform 1s;
+    transform-style: preserve-3d;
+  }
+  
+  .img__inner.is-flipped {
+    transform: rotateY(180deg);
+  }
+  
+  
+  .img__face {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    overflow: hidden;
+    border-radius: 16px;
+    box-shadow: 0px 3px 18px 3px rgba(0, 0, 0, 0.2);
+  }
+  
+  .img__face--back {
+    transform: rotateY(180deg);
+  } */
